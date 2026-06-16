@@ -42,7 +42,7 @@ Contributed to the Urban Agenda 2041 initiative, including climate justice analy
 ### PhD in Geography
 **Centre for the Study of Regional Development (CSRD), Jawaharlal Nehru University, New Delhi** | 2021 – Present
 
-Dissertation: Socio-economic Embeddedness of Urban Green Spaces in Delhi: A Spatial Justice Framework
+Dissertation: Socio-economic Embeddedness of Urban Green Spaces in Delhi
 Supervisor: Professor Milap Punia
 
 ---
@@ -55,7 +55,7 @@ Dissertation: Mapping of Industrial Waste of Granite and Marble Slurry in Rajast
 
 ---
 
-## Fellowships and Scholarships
+## Academic Mobility, Fellowships & Awards
 
 | Fellowship | Institution | Year |
 |---|---|---|
