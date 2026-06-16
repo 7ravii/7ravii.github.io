@@ -1,122 +1,43 @@
----
-hide:
-  - toc
-  - navigation
----
-<!--
-CHECKLIST FOR THIS PAGE:
-- [ ] Replace [YOUR NAME] with your full name (3 places)
-- [ ] Replace [YOUR JOB TITLE] with your current or target role
-- [ ] Replace [YOUR TAGLINE] with a short phrase describing your focus
-- [ ] Rewrite the About Me paragraph with your own words
-- [ ] Replace assets/images/profile.png with your actual photo (keep the filename or update it below)
-- [ ] Replace assets/images/about.png with your own image (a field photo, map, or workspace shot)
-- [ ] Edit the skill cards to match your actual skills (add, remove, or rename cards as needed)
-- [ ] Update GitHub and LinkedIn links in the Connect section
-- [ ] Add your CV PDF to docs/assets/ and update the filename in the Download CV button
--->
+# Ravindra Singh
 
+**PhD Candidate in Geography, Jawaharlal Nehru University**
 
-
-<div class="hero">
-  <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
-  <h1>[YOUR NAME]</h1>
-  <p><strong>[YOUR JOB TITLE]</strong></p>
-  <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
-</div>
+Spatial justice researcher mapping who gets left out of Delhi's green city agenda
 
 ---
 
 ## About Me
 
-<div class="about-section" markdown>
-<div class="about-text" markdown>
+![Profile](assets/images/profile.png){ align=right width=200 }
 
-[Replace this paragraph with your own bio. Write 3–4 sentences covering: your background and
-what you specialize in, the kinds of problems you work on, the tools and methods you use,
-and what you are currently looking for. Example below:]
+Delhi is officially one of India's greenest cities. It is also a city where millions of residents in informal and unauthorised settlements live without meaningful access to green space, cooling shade, or clean urban environments. This paradox is the starting point of my doctoral research.
 
-I am a geospatial data scientist with a background in remote sensing and machine learning.
-I work on extracting actionable insights from satellite imagery and large spatial datasets
-using Python, Google Earth Engine, and open-source GIS tools. I am passionate about applying
-GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban
-planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TARGET LOCATION].
+I am a PhD candidate at the Centre for the Study of Regional Development (CSRD), Jawaharlal Nehru University, supervised by Professor Milap Punia. My research examines spatial justice in Delhi's urban green infrastructure across three dimensions: who gets the benefits (distributive), who gets a say (procedural), and whose communities are even recognised as legitimate (recognition). My central argument is that misrecognition is foundational — when planning frameworks refuse to acknowledge informal settlements as legitimate urban communities, procedural exclusion and distributive deprivation follow structurally.
 
-</div>
+My work goes beyond green cover counts and heat metrics. I use geospatial modelling, critical master plan analysis (1962 to 2041), and governance fieldwork in urban villages and unauthorised colonies to examine how Delhi's greening agenda concentrates ecological benefits in planned areas while displacing environmental costs onto the urban poor.
 
-<div class="about-image">
-  <img src="assets/images/about.png" alt="About">
-</div>
+I hold a UGC Senior Research Fellowship and have received competitive funding from Utrecht University, UvA Amsterdam, TU Delft, RWTH Aachen, and the Austrian Student Union. My doctoral research has directly shaped the Shahjahanpur City Heat Action Plan 2026, one of the few instances of PhD-level work translating into a published municipal policy instrument in India.
 
-</div>
-
----
-
-[View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button }
-
+[Download CV](assets/Ravindra_Singh_CV.pdf){ .md-button }
+[View Research](research.md){ .md-button }
 
 ---
 
 ## Skills
 
-<div class="grid cards" markdown>
+**Geospatial Analysis**
+ArcGIS Pro, QGIS, Google Earth Engine, InVEST Urban Cooling Model, remote sensing, spatial regression, hotspot analysis
 
--   :material-layers:{ .lg .middle } **GIS & Remote Sensing**
+**Research Methods**
+Mixed-method design, governance fieldwork, master plan analysis, community interviews, participatory mapping
 
-    ---
-
-    - QGIS, ArcGIS Pro, Google Earth Engine
-    - GDAL / OGR, GRASS GIS
-    - Multispectral and SAR image analysis
-    - Cloud Native Geospatial (COG, STAC, Zarr)
-
--   :material-code-braces:{ .lg .middle } **Programming**
-
-    ---
-
-    - Python — GeoPandas, NumPy, Pandas, Matplotlib
-    - R — sf, terra, ggplot2
-    - JavaScript — Leaflet, MapLibre GL
-    - SQL, PostgreSQL + PostGIS
-
--   :material-star-four-points:{ .lg .middle } **Machine Learning & GeoAI**
-
-    ---
-
-    - Supervised classification — Random Forest, XGBoost
-    - Deep learning for image segmentation — U-Net, SAM
-    - scikit-learn, PyTorch, TensorFlow
-    - Object detection in satellite imagery
-
--   :material-earth:{ .lg .middle } **Web Mapping & Data**
-
-    ---
-
-    - Leaflet.js, Folium, MapLibre GL JS
-    - Cloud storage — AWS S3, Google Cloud Storage
-    - Data formats — GeoTIFF, GeoParquet, NetCDF
-    - Streamlit for data-driven web apps
-
--   :material-database:{ .lg .middle } **Data & Cloud**
-
-    ---
-
-    - PostgreSQL + PostGIS
-    - Cloud storage: AWS S3, Google Cloud Storage
-    - Data formats: GeoJSON, GeoTIFF, NetCDF, Zarr, GeoParquet
-
--   :material-airplane:{ .lg .middle } **Drone / UAV Data Processing**
-
-    - Mission planning and flight operations
-    - Photogrammetry: Agisoft Metashape, OpenDroneMap
-    - Point cloud processing: CloudCompare, PDAL
-</div>
-
+**Writing and Communication**
+Peer-reviewed book chapters, policy reports, conference presentations, public engagement
 
 ---
 
 ## Connect
 
-[GitHub](https://github.com/[YOUR-GITHUB-USERNAME]){ .md-button }
-[LinkedIn](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]){ .md-button }
+- Email: [01ravindrasingh@gmail.com](mailto:01ravindrasingh@gmail.com)
+- GitHub: [github.com/7ravii](https://github.com/7ravii)
+- Location: New Delhi, India

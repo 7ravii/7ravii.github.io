@@ -1,46 +1,29 @@
-# ============================================================
-# PORTFOLIO CONFIGURATION
-# This file is in the YAML format and is very sensitive to 
-# spaces. Ensure to match the indentation level and spacing
-# of new items with existing ones
-
-# Edit all lines marked [YOUR ...] to customize your site
-# ============================================================
-
-site_name: "[YOUR NAME] - Geospatial Portfolio"
-site_description: "Portfolio of [YOUR NAME] — GIS, Remote Sensing, and Spatial Data Science"
-site_author: "[YOUR NAME]"
-# After your site is live, uncomment and set this to your actual GitHub Pages URL:
-#site_url: "https://your-username.github.io/your-repo-name"
+site_name: Ravindra Singh
+site_description: Spatial Justice Researcher | Urban Green Infrastructure | Delhi
+site_author: Ravindra Singh
+site_url: https://7ravii.github.io
 
 theme:
   name: material
-  # Icon used as both the site logo (header) and browser favicon.
-  # Browse icons at https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/
-  # and replace "material/earth" with any "material/..." icon name you prefer.
   icon:
     logo: material/earth
   palette:
-    # To change the color, edit the 'primary' and 'accent' values below for both
-    # the 'default' (light) and 'slate' (dark) schemes.
-    # Available colors: red, pink, purple, deep purple, indigo, blue, light blue,
-    # cyan, teal, green, light green, lime, yellow, amber, orange, deep orange
-    - scheme: default            # Light mode
+    - scheme: default
       primary: indigo
       accent: blue
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
-    - scheme: slate              # Dark mode
+    - scheme: slate
       primary: indigo
       accent: blue
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
   features:
-    - navigation.tabs            # Top-level nav items shown as horizontal tabs
-    - navigation.top             # Back-to-top button when scrolling up
-    - content.code.copy          # Copy button on all code blocks
+    - navigation.tabs
+    - navigation.top
+    - content.code.copy
   font:
     text: Roboto
     code: Roboto Mono
@@ -49,27 +32,26 @@ extra_css:
   - assets/css/extra.css
 
 markdown_extensions:
-  - md_in_html        # Allows Markdown inside HTML blocks (used for project cards)
-  - attr_list         # Allows adding CSS classes to elements: ![img](url){ .class }
-  - admonition        # Note/warning/tip boxes
-  - pymdownx.details  # Collapsible admonition blocks
+  - md_in_html
+  - attr_list
+  - admonition
+  - pymdownx.details
   - pymdownx.superfences
   - tables
-  - pymdownx.emoji:   # Renders :material-icon: and :fontawesome-brands-icon: inline icons
+  - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
-copyright: "Copyright &copy; [YOUR NAME]"
+copyright: "© 2026 Ravindra Singh"
 
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/[YOUR-GITHUB-USERNAME]
+      link: https://github.com/7ravii
     - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]
+      link: https://www.linkedin.com/in/ravindra-singh-304b3313a/
     - icon: material/email
-      link: mailto:[YOUR-EMAIL-ADDRESS]
-
+      link: mailto:01ravindrasingh@gmail.com
 
 plugins:
   - search
@@ -78,16 +60,12 @@ plugins:
 
 nav:
   - Home: index.md
+  - Research: research.md
   - Projects:
-    - "All Projects": projects/index.md
-    - "Sample Project": projects/sample-project.md
-    - "Jupyter Notebook Project": projects/sample-notebook.ipynb
-    # HOW TO ADD A NEW PROJECT:
-    # 1. Copy docs/projects/sample-project.md to docs/projects/your-project-name.md
-    #    (or drop an .ipynb file into docs/projects/ for a Jupyter notebook project)
-    # 2. Edit the new file with your project content
-    # 3. Add a line below (same format): - "Your Project Title": projects/your-project-name.md
-    # 4. Add a project card on docs/projects/index.md
+    - Overview: projects/index.md
+    - "Who Gets to Stay Cool?": projects/cooling-deficit.md
+    - "Caste, Space, and Green": projects/caste-green.md
+    - "Dilli Dehat Project": projects/dilli-dehat.md
   - Publications: publications.md
   - Experience: experience.md
   - Contact: contact.md

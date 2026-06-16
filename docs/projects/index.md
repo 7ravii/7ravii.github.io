@@ -1,47 +1,25 @@
----
-hide:
-  - toc
-  - navigation
----
-<!--
-CHECKLIST FOR THIS PAGE:
-- [ ] Replace the two placeholder cards (marked [YOUR PROJECT ...]) with your real projects
-- [ ] For each project: add a thumbnail image to docs/assets/images/ and update the path below
-- [ ] For each project: create a project page by copying sample-project.md
-- [ ] For each project: add a nav entry in mkdocs.yml (see the comments there)
-- [ ] Delete placeholder cards you don't need yet
--->
-
 # Projects
 
-A selection of my geospatial projects. Click any card to see the full write-up.
+A selection of research projects from my doctoral work on spatial justice and urban green infrastructure in Delhi.
 
-<div class="grid" markdown>
+<div class="grid cards" markdown>
 
-<div class="project-card" markdown>
-![](../assets/images/placeholder-project.png)
+-   **Who Gets to Stay Cool?**
 
-**[Sample Project](sample-project.md)**
+    Spatial inequality in urban heat mitigation across Delhi. Combines InVEST Urban Cooling Model outputs with food insecurity data to map compound vulnerability zones.
 
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
+    [Read more →](cooling-deficit.md)
 
-`[TOOL 1]` `[TOOL 2]` `[TOOL 3]`
+-   **Caste, Space, and Green**
 
-[View Project →](sample-project.md){ .md-button }
-</div>
+    Examining the relationship between caste geography and green space distribution across Delhi's enumeration blocks using Census 2011 data and spatial regression.
 
-<div class="project-card" markdown>
-![](../assets/images/placeholder-notebook.png)
+    [Read more →](caste-green.md)
 
-**[Sample Notebook](sample-notebook.ipynb)**
+-   **Dilli Dehat Project**
 
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
+    Recognition justice case study documenting forest enclosure, johad blockade, and planning erasure in Delhi's urban villages, in collaboration with Puneet Singh Singhal.
 
-`Python` `pandas` `Folium`
-
-[View Project →](sample-notebook.ipynb){ .md-button }
-</div>
+    [Read more →](dilli-dehat.md)
 
 </div>

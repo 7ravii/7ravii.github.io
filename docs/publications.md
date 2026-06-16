@@ -1,46 +1,23 @@
----
-hide:
-  - toc
-  - navigation
----
-<!--
-CHECKLIST FOR THIS PAGE:
-- [ ] Replace each [YOUR ...] placeholder with your actual information
-- [ ] Add or remove entries in each section as needed
-- [ ] Remove sections that are not applicable (e.g., Theses, Conference Presentations)
-- [ ] Add DOI or URL links where available
--->
-
 # Publications
 
-## Journal Articles
+## Peer-Reviewed Book Chapters
 
-1. [YOUR NAME], [CO-AUTHOR NAME], and [CO-AUTHOR NAME] ([YEAR]). "[Your paper title here]." *[Journal Name]*, [Volume] [Issue], [Page range]. [DOI link or URL]
+**Jasrotia, G., Agarwal, O., Singh, R., Choudhary, R. S., and Athar, T.** (Forthcoming 2026). A Manifesto for a Waste-Just Delhi: How Delhi Produces Waste Injustice and How We Must End It. In R. Rocco et al. (Eds.), *A Manifesto for the Just City* (Vol. 5). TU Delft Open Publishing.
 
-2. [YOUR NAME] and [CO-AUTHOR NAME] ([YEAR]). "[Your paper title here]." *[Journal Name]*, [Volume] [Issue], [Page range]. [DOI link or URL]
-
-3. [YOUR NAME] ([YEAR]). "[Your paper title here]." *[Journal Name]*, [Volume] [Issue], [Page range]. [DOI link or URL]
+**Jasrotia, G., Punia, M., Singh, K. K., and Singh, R.** (2025). A manifesto for environmental justice in Delhi. In R. Rocco, C. Newton, and J. Goncalves (Eds.), *A Manifesto for the Just City* (Vol. 4, pp. 380–389). TU Delft Open Publishing. [https://doi.org/10.59490/mg.142](https://doi.org/10.59490/mg.142)
 
 ---
 
-## Conference Papers & Presentations
+## Policy Reports
 
-1. [YOUR NAME] and [CO-AUTHOR NAME] ([YEAR]). "[Your presentation title]." *[Conference Name]*, [City, Country].
-
-2. [YOUR NAME] ([YEAR]). "[Your presentation title]." *[Conference Name]*, [City, Country].
+**Singh, R.** (2026). Geospatial Heat Risk Assessment and Spatial Analysis [Chapter 2, Technical Expert]. In *Shahjahanpur City Heat Action Plan: A Heatwave Management Guide for 2026*. District Disaster Management Authority, Shahjahanpur, Uttar Pradesh. [shahjahanpur.nic.in/dmp/](https://shahjahanpur.nic.in/dmp/)
 
 ---
 
-## Theses
+## Conference Presentations
 
-- [YOUR NAME] ([YEAR]). *[Your thesis title]*. [Degree type] thesis. [University Name].
+**Singh, R.** (2026). Who Gets to Stay Cool? Spatial Inequality in Urban Heat Mitigation across Delhi. *LivedHeat Symposium 2026*, IIT Delhi and TU Delft, New Delhi, May 14–15.
 
----
+**Singh, R.** (2023). Assessment of Socio-economic Embeddedness of Urban Green Spaces in Delhi. *Spatial Planning in Practice International Conference*, TU Delft, Netherlands.
 
-## Reports & Technical Documents
-
-- [YOUR NAME] et al. ([YEAR]). *[Report title]*. [Organization Name]. [URL or DOI if available]
-
----
-
-*For citation counts and a full list, see [Google Scholar](https://scholar.google.com) or [ResearchGate](https://www.researchgate.net).*
+**Singh, R.** (2023). Geospatial Assessment of Quality, Quantity and Accessibility of Urban Green Spaces in Delhi. *43rd INCA International Congress*, Indian National Cartographic Association, hosted by NRSC, ISRO.
