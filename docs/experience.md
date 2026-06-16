@@ -1,78 +1,65 @@
-# Experience
+## Academic Mobility, Fellowships, Scholarships & Research Schools
 
-## Research and Professional Experience
+My academic and research journey has been shaped through fellowships, scholarships, doctoral workshops, and summer schools across India and Europe. These experiences have expanded my engagement with spatial justice, urban political economy, sustainability transitions, complexity science, institutional transformation, and future-making.
 
-### Consultant — Shahjahanpur City Heat Action Plan 2026
-**District Disaster Management Authority, Shahjahanpur, Uttar Pradesh** | 2025 – 2026
+*Interactive map of academic mobility and research training experiences (click numbered markers for details).*
 
-Commissioned to lead the spatial heat risk assessment and vulnerability mapping underpinning the full municipal Climate Adaptation Plan. Produced Chapter 2 (Geospatial Heat Risk Assessment), developing a composite Heat Risk Index using geospatial data. Provided substantive policy inputs across Guiding Principles, Early Warning Systems, Operational Heat Action Strategy, and department-wise Standard Operating Procedures, translating spatial evidence into actionable governance frameworks. One of the few instances of doctoral research directly shaping a published city-level policy instrument in India.
+<div id="fellowship-map" style="height:650px; margin-bottom:25px;"></div>
 
-[Published plan: shahjahanpur.nic.in/dmp/](https://shahjahanpur.nic.in/dmp/)
+### Academic Mobility and Intellectual Development
 
----
+#### Futuring for Sustainability, Urban Futures Studio, Utrecht University (2026)
 
-### Senior Research Fellow — UGC Fellowship
-**Centre for the Study of Regional Development, Jawaharlal Nehru University** | 2021 – Present
+The Futuring for Sustainability Summer School explored how societies imagine, negotiate, and construct environmental futures. The programme connected sustainability transitions with broader political questions concerning democratic decline, ideological contestation, and social transformation. Using futuring methodologies developed by the Urban Futures Studio, participants engaged with innovative approaches to future-making and transformative research. The school significantly expanded my understanding of futures thinking as both a research method and a tool for addressing contemporary sustainability challenges.
 
-- Designing and conducting mixed-method research integrating geospatial modelling, critical master plan analysis (1962 to 2041), and field-based governance inquiry
-- Running the InVEST Urban Cooling Model to quantify distribution of heat mitigation benefits across Delhi's settlement typologies
-- Developing spatial justice indices through raster-based modelling, proximity analysis, weighted overlay, spatial regression, and Gi* hotspot analysis
-- Examining distributive, procedural, and recognition dimensions of urban green infrastructure governance in Delhi
-- Conducting community-level fieldwork in Delhi's urban villages in collaboration with Puneet Singh Singhal (Dilli Dehat Project)
-- Producing policy-relevant spatial evidence to interrogate planning hierarchies and environmental allocation patterns
+#### Reworlding Spring School, Hasselt University (2026)
 
----
+The Reworlding Spring School examined the role of institutions in socio-environmental transitions through themes of power, institutional change, embodied governance, and more-than-human relations. Through keynote lectures, workshops, and collaborative discussions, participants explored how institutions can be reimagined and reshaped in response to ongoing ecological and social crises. The programme deepened my interest in governance and institutional transformation while introducing alternative perspectives on environmental change and collective action.
 
-### Urban Fellow
-**Indian Institute for Human Settlements (IIHS), Bangalore** | 2018 – 2019
+#### Amsterdam Complexity School on Climate Change (2026)
 
-Nine-month fully residential, interdisciplinary fellowship at India's only nationally recognised urban practice training institution. Curriculum combined classroom instruction, site-based applied learning, and live project work across governance, ecology, infrastructure, and spatial planning. Developed foundational skills in translating complex urban research into practice-oriented governance interventions.
+The Amsterdam Complexity School on Climate Change brought together early-career researchers, policymakers, NGOs, activists, and other stakeholders to address climate challenges using complexity science as a guiding framework. Through lectures, tutorials, collaborative projects, and interdisciplinary teamwork, participants explored systems thinking, network dynamics, and collective problem-solving approaches to climate governance. The programme expanded my methodological perspective and highlighted the value of complexity-based approaches for understanding socio-environmental systems.
 
----
+#### Urban Space in Tension Between Financialisation and the Right to the City, Vienna Doctoral School of Social Sciences (2025)
 
-### Intern
-**Indo Global Social Service Society (IGSSS), New Delhi** | 2019
+Organised by the PhD Club Critical Approaches to Policy and Governance, this international doctoral workshop engaged with contemporary debates on urban financialisation, housing, urban citizenship, and the Right to the City. Discussions explored how contemporary urban development is increasingly shaped by financial markets, speculative investment, and changing governance arrangements. The workshop strengthened my engagement with critical urban theory and urban political economy while providing a platform for dialogue with doctoral researchers working on urban justice issues across different contexts.
 
-Contributed to the Urban Agenda 2041 initiative, including climate justice analysis and policy manifesto preparation addressing environmental inequality in Delhi.
+#### IGCS Fellowship – Regenerative Urban Futures, RWTH Aachen University (2024)
 
----
+The International Graduate Campus Scholarship (IGCS) fellowship exposed me to interdisciplinary perspectives on regenerative urban futures and sustainability transformations. The programme encouraged critical reflection on how cities can move beyond conventional sustainability approaches towards regenerative frameworks that integrate ecological restoration, resilience, and long-term socio-environmental well-being. It strengthened my understanding of urban transformation processes and broadened my engagement with international sustainability scholarship.
 
-## Education
+#### Planning and Design for the Just City, TU Delft (2024)
 
-### PhD in Geography
-**Centre for the Study of Regional Development (CSRD), Jawaharlal Nehru University, New Delhi** | 2021 – Present
+This intensive summer school explored the intersection of spatial planning, urban design, governance, and spatial justice. Working with researchers, policymakers, civil society organisations, and practitioners, participants examined how justice-oriented planning approaches can address sustainability transitions in complex urban environments. The programme provided an opportunity to apply theoretical debates on spatial justice to practical planning challenges in The Hague and significantly enriched the conceptual foundations of my doctoral research.
 
-Dissertation: Socio-economic Embeddedness of Urban Green Spaces in Delhi
-Supervisor: Professor Milap Punia
 
----
+#### Urban Fellowship, Indian Institute for Human Settlements (2018–2019)
 
-### M.A. in Geography
-**Central University of Punjab, India** | 2016 – 2018
+The Urban Fellowship at the Indian Institute for Human Settlements (IIHS) provided my first formal interdisciplinary training in urban studies. Through classroom instruction, field immersion, and applied project work, the programme introduced me to urban governance, infrastructure systems, ecology, planning, housing, and development practice. The fellowship played a foundational role in shaping my interest in cities and continues to influence my efforts to connect academic research with real-world policy and planning challenges.
 
-Specialisation: Urban and Environmental Geography; GIS and Remote Sensing
-Dissertation: Mapping of Industrial Waste of Granite and Marble Slurry in Rajasthan
 
----
 
-## Academic Mobility, Fellowships & Awards
+### Summary of Fellowships, Scholarships and Research Schools
 
-| Fellowship | Institution | Year |
-|---|---|---|
-| UFS Futuring Summer School (EUR 2,000) | Utrecht University, Netherlands | 2026 |
-| Amsterdam Complexity School on Climate Change — Travel Grant (EUR 800) | UvA Institute for Advanced Study, Amsterdam | 2026 |
-| Austrian Student Union Travel Grant (EUR 800) | Vienna Doctoral School, Austria | 2025 |
-| IGCS Fellowship — Regenerative Urban Futures (EUR 2,000) | RWTH Aachen, Germany | 2024 |
-| TU Delft Summer School Scholarship (EUR 500) | Centre for the Just City, TU Delft | 2024 |
-| UGC Senior Research Fellowship | Government of India | 2021 – Present |
-| Urban Fellowship Award | IIHS, Bangalore | 2018 – 2019 |
+| Fellowship / Programme                                                    | Institution                                              | Year         |
+| ------------------------------------------------------------------------- | -------------------------------------------------------- | ------------ |
+| UFS Futuring for Sustainability Summer School (EUR 2,000)                 | Utrecht University, Netherlands                          | 2026         |
+| Reworlding Spring School                                                  | Hasselt University, Belgium                              | 2026         |
+| Amsterdam Complexity School on Climate Change – Travel Grant (EUR 800)    | UvA Institute for Advanced Study, Amsterdam              | 2026         |
+| Austrian Student Union Travel Grant (EUR 800)                             | Vienna Doctoral School of Social Sciences, Austria       | 2025         |
+| IGCS Fellowship – Regenerative Urban Futures (EUR 2,000)                  | RWTH Aachen University, Germany                          | 2024         |
+| Planning and Design for the Just City Summer School Scholarship (EUR 500) | TU Delft, Netherlands                                    | 2024         |
+| UGC Senior Research Fellowship                                            | Government of India                                      | 2021–Present |
+| Urban Fellowship Award                                                    | Indian Institute for Human Settlements (IIHS), Bangalore | 2018–2019    |
+
+Collectively, these experiences have expanded the conceptual foundations of my doctoral research beyond questions of environmental distribution and green infrastructure provision. They have enabled me to engage with broader debates on spatial justice, urban political economy, sustainability transitions, institutional transformation, complexity science, and future-making. Together, these programmes have strengthened my ability to connect geospatial analysis with critical urban theory and policy-relevant research on just and sustainable urban futures.
 
 ---
 
 ## Service
 
-**Rapporteur**, UN-GGIM Pre-event, CSRD-JNU, New Delhi (January 2022)
-
 **Rapporteur**, International Conference on Sustainable and Inclusive Urban Development in the Global South, New Delhi (August 2023)
 
-**Student Representative**, Board of Studies, Centre for Geography and Geology, Central University of Punjab (2017 – 2018)
+**Rapporteur**, UN-GGIM Pre-event, CSRD-JNU, New Delhi (January 2022)
+
+**Student Representative**, Board of Studies, Centre for Geography and Geology, Central University of Punjab (2017–2018)

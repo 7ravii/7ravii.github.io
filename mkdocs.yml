@@ -7,6 +7,7 @@ theme:
   name: material
   icon:
     logo: material/earth
+
   palette:
     - scheme: default
       primary: indigo
@@ -14,22 +15,30 @@ theme:
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
+
     - scheme: slate
       primary: indigo
       accent: blue
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+
   features:
     - navigation.tabs
     - navigation.top
     - content.code.copy
+
   font:
     text: Roboto
     code: Roboto Mono
 
 extra_css:
   - assets/css/extra.css
+  - https://unpkg.com/leaflet@1.9.4/dist/leaflet.css
+
+extra_javascript:
+  - https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
+  - assets/js/fellowships.js
 
 markdown_extensions:
   - md_in_html
@@ -48,8 +57,10 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/7ravii
+
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/ravindra-singh-304b3313a/
+
     - icon: material/email
       link: mailto:01ravindrasingh@gmail.com
 
@@ -61,11 +72,13 @@ plugins:
 nav:
   - Home: index.md
   - Research: research.md
+
   - Projects:
-    - Overview: projects/index.md
-    - "Who Gets to Stay Cool?": projects/cooling-deficit.md
-    - "Caste, Space, and Green": projects/caste-green.md
-    - "Dilli Dehat Project": projects/dilli-dehat.md
+      - Overview: projects/index.md
+      - "Who Gets to Stay Cool?": projects/cooling-deficit.md
+      - "Caste, Space, and Green": projects/caste-green.md
+      - "Dilli Dehat Project": projects/dilli-dehat.md
+
   - Publications: publications.md
   - Experience: experience.md
   - Contact: contact.md
